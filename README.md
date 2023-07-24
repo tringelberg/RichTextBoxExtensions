@@ -2,9 +2,9 @@
 ## Extensions for the default C#-WinForm-RichTextBox-Control
 
 This project extends the default functionality of the C# RichTextBox-Control.
-Currently, this project only adds the possibility to use more numbering styles. To my knowledge, there is no way to use anything else other than \
-bullet-numbering although the functionality has been implemented in the original RichEditControl. My code enables you to use the other numbering styles by \
-extending the RichTextBox-Class by two more methods. \
+Currently, this project only adds the possibility to use more numbering styles. To my knowledge, there is no way to use anything else other than 
+bullet-numbering although the functionality has been implemented in the original RichEditControl. 
+My code enables you to use the other numbering styles by extending the RichTextBox-Class by two more methods. \
 
 ## How to use
 1. Compile the project and move the resulting RichTextBoxExtensions.dll to a place where you can find it easily. Alternatively add the project to your own project.
