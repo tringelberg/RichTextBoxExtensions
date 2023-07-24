@@ -17,6 +17,7 @@ My code enables you to use the other numbering styles by extending the RichTextB
 Add  the 'using RichTextBoxExtensions'-directive to your code. After doing this, the RichTextBox-Control now has two more methods:
 - EnableListing(option, style, intend)
 - DisableListing()
+- GetListingInfo()
 
 See source code for full description.
 
